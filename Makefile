@@ -30,8 +30,8 @@ define Package/vipvideo
   PKGARCH:=all
 endef
 
-define Package/aria-ng/description
-	AriaNg is written in html5 & css.
+define Package/vipvideo/description
+	Vipvideo is written in html5 & css.
 endef
 
 define Build/Compile
